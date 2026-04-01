@@ -35,7 +35,6 @@ Location   : Dhaka, Bangladesh 🇧🇩
 Education  : B.Sc. CSE @ Daffodil International University
              CGPA: 3.50 / 4.00 (2022 - 2026)
 Focus      : SQL · Power BI · Python · Machine Learning
-Thesis     : XAI for Early Parkinson's Detection (SHAP)
 Status     : 🟢 Open to Work
 Languages  : Bengali 🇧🇩 | Hindi 🇮🇳 | English 🇬🇧
 ```
