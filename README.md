@@ -1,556 +1,248 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a7a4a,50:2ecc71,100:145a32&height=200&section=header&text=🏦%20Bank%20Loan%20Analysis&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Power%20BI%20Dashboard%20Project&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
-
-<!-- BADGES ROW 1 -->
-<br/>
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-Measures-00897B?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power%20Query-M%20Language-217346?style=for-the-badge&logo=microsoft&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-Data%20Source-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-<!-- BADGES ROW 2 -->
-
-![Status](https://img.shields.io/badge/Status-✅%20Completed-2ecc71?style=flat-square)
-![Pages](https://img.shields.io/badge/Pages-3%20Interactive-1abc9c?style=flat-square)
-![Records](https://img.shields.io/badge/Records-38.6K%20Loans-16a085?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-27ae60?style=flat-square)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2024-2ecc71?style=flat-square)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Naiem%20Ur%20Rahman%20Riyad&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%26%20Data%20Science%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
-> ### *"Turning raw loan data into clarity — one insight at a time."*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F2C811&center=true&vCenter=true&random=false&width=600&lines=Transforming+Data+into+Decisions+%F0%9F%93%8A;Power+BI+%7C+SQL+%7C+Python+%7C+Machine+Learning;Building+Dashboards+that+Tell+Stories+%F0%9F%9A%80;Open+to+Data+Analyst+Opportunities+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 <br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://naiemurrahman.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahman-riyad-b4011a349/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahman.riyad21@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NaiemUrRahmanRiyad)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=NaiemUrRahmanRiyad&color=F2C811&style=for-the-badge&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/NaiemUrRahmanRiyad?style=for-the-badge&color=F2C811&labelColor=181717)
 
 </div>
 
 ---
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+```yaml
+Name       : Naiem Ur Rahman Riyad
+Role       : Data Analyst & Data Science Enthusiast
+Location   : Dhaka, Bangladesh 🇧🇩
+Education  : B.Sc. CSE @ Daffodil International University
+             CGPA: 3.50 / 4.00 (2022 - 2026)
+Focus      : SQL · Power BI · Python · Machine Learning
+Thesis     : XAI for Early Parkinson's Detection (SHAP)
+Status     : 🟢 Open to Work
+Languages  : Bengali 🇧🇩 | Hindi 🇮🇳 | English 🇬🇧
+```
+
+<br/>
+
+- 🎯 Passionate about turning **raw data into actionable business insights**
+- 📊 Experienced in building **end-to-end BI solutions** with Power BI & SQL
+- 🧠 Researching **Explainable AI (XAI)** — SHAP-based model interpretation
+- 💡 Love working with **large-scale datasets** and finding hidden patterns
+- 🚀 Currently looking for **Data Analyst / BI Analyst** opportunities
+
+<br clear="right"/>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Stack & Tools
+
 <div align="center">
 
-## 📸 Dashboard Snapshots
+**💻 Languages & Querying**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**📊 Data Visualization & BI**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
+
+**🗄️ Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+**🤖 Machine Learning & AI**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+**🛠️ Tools & Platforms**
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Appsmith](https://img.shields.io/badge/Appsmith-FF6D2A?style=for-the-badge&logo=appsmith&logoColor=white)
 
 </div>
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 📋 Summary View
-![Summary](screenshots/b3.png)
-*Executive KPIs + Good/Bad Loan split*
-
-</td>
-<td align="center" width="33%">
-
-### 🗺️ Overview View
-![Overview](screenshots/b2.png)
-*Trends, maps & distribution charts*
-
-</td>
-<td align="center" width="33%">
-
-### 🔍 Details View
-![Details](screenshots/b1.png)
-*Record-level loan drill-through*
-
-</td>
-</tr>
-</table>
-
 ---
 
-## 🌟 Why This Dashboard?
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<table>
-<tr>
-<td>
-
-```
-📊  38,576 loans analyzed
-💰  $435.8M total funded
-💵  $473.1M total received
-📈  15.8% MoM growth
-✅  86.18% good loan rate
-⚠️   13.82% charge-off rate
-```
-
-</td>
-<td>
-
-This Power BI dashboard transforms raw bank loan data into a **strategic decision-making tool** for:
-
-- 🏛️ **Bank Executives** — portfolio health at a glance
-- 📊 **Financial Analysts** — deep-dive trend analysis
-- 🔍 **Risk Officers** — bad loan segmentation
-- 💼 **Loan Officers** — borrower behavior insights
-
-</td>
-</tr>
-</table>
-
----
-
-## 🗂️ Project Architecture
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                    BANK LOAN ANALYSIS PIPELINE                   ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║   📥 RAW DATA          🔧 TRANSFORM         📊 VISUALIZE        ║
-║   ─────────────        ─────────────        ──────────────       ║
-║   loan_data.csv   →    Power Query     →    3 Report Pages       ║
-║   (38.6K rows)         M Language           Summary              ║
-║                        Data Cleaning        Overview             ║
-║                        Type casting         Details              ║
-║                              ↓                                   ║
-║                        DAX Measures                              ║
-║                        KPIs / MTD / MoM                          ║
-║                        Good/Bad Loan %                           ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
----
-
-## 📊 Dashboard Deep Dive
-
-### ━━━ Page 1 · SUMMARY ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## 🚀 Featured Projects
 
 <div align="center">
 
-#### 🔢 Top KPI Cards
-
-| 🏷️ Metric | 📌 Total | 📅 MTD | 📈 MoM |
-|-----------|---------|--------|--------|
-| 📝 Loan Applications | **38.6K** | 4,314 | `+6.9%` ↑ |
-| 💸 Funded Amount | **$435.8M** | $54.0M | `+13.0%` ↑ |
-| 💰 Amount Received | **$473.1M** | $58.1M | `+15.8%` ↑ |
-| 📉 Avg Interest Rate | **12.0%** | 12.4% | `+3.5%` ↑ |
-| ⚖️ Avg DTI | **13.3%** | 13.7% | `+2.7%` ↑ |
+<a href="https://github.com/NaiemUrRahmanRiyad/Power-Bi-Projects">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=NaiemUrRahmanRiyad&repo=Power-Bi-Projects&theme=dark&hide_border=true&bg_color=0D1117&title_color=F2C811&icon_color=F2C811" />
+</a>
+<a href="https://github.com/NaiemUrRahmanRiyad/Thesis">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=NaiemUrRahmanRiyad&repo=Thesis&theme=dark&hide_border=true&bg_color=0D1117&title_color=F2C811&icon_color=F2C811" />
+</a>
 
 </div>
 
 <br/>
 
-#### 🟢 Good Loans vs 🔴 Bad Loans
+### 🏥 Hospital Monitoring Dashboard
+> *Power BI · DAX · Data Modeling · Healthcare Analytics*
 
-```
-  GOOD LOANS ████████████████████████████████████░░░░░░  86.18%
-  BAD  LOANS ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░██████  13.82%
-```
+- 📌 Monitored **10 hospitals** with **56,000+ patient records** and **$1.4B** in total billing
+- 📌 Built DAX measures for Total Billing, Avg LOS, YoY comparisons & patient demographics
+- 📌 Dynamic cross-filtering slicers for fully interactive drill-down exploration
 
-<table>
-<tr>
-<td align="center">
-
-**✅ GOOD LOANS**
-
-| Metric | Value |
-|--------|-------|
-| Applications | `33,200` |
-| Funded Amount | `$370.2M` |
-| Received Amount | `$435.8M` |
-| Return Ratio | `117.7%` ✅ |
-
-</td>
-<td align="center">
-
-**❌ BAD LOANS (Charged Off)**
-
-| Metric | Value |
-|--------|-------|
-| Applications | `5,300` |
-| Funded Amount | `$65.5M` |
-| Received Amount | `$37.3M` |
-| Recovery Rate | `56.9%` ⚠️ |
-
-</td>
-</tr>
-</table>
-
-#### 📋 Loan Status Breakdown
-
-| Loan Status | Applications | Funded Amount | Amount Received | MTD Funded | Avg Interest | Avg DTI |
-|:-----------:|:------------:|:-------------:|:---------------:|:----------:|:------------:|:-------:|
-| ✅ Fully Paid | `32,145` | $351,358,350 | $411,586,256 | $41,302,025 | 11.64% | 13.17% |
-| 🔄 Current | `1,098` | $18,866,500 | $24,199,914 | $3,946,625 | 15.10% | 14.72% |
-| ❌ Charged Off | `5,333` | $65,532,225 | $37,284,763 | $8,732,775 | 13.88% | 14.00% |
-| **Grand Total** | **38,576** | **$435,757,075** | **$473,070,933** | **$53,981,425** | **12.05%** | **13.33%** |
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NaiemUrRahmanRiyad/Power-Bi-Projects/tree/235d1ec05419a1b7f870ada924ca552216b8a338/Hospital%20Monitoring%20Dashboard)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.fabric.microsoft.com/view?r=eyJrIjoiNzFmNzgyZDEtMGM3Ny00MzY5LWEzOTctMzM0YWUyMmJjNjMxIiwidCI6ImM4ODk5ZDQ4LTIyN2MtNDRhZS05YzIxLWQwZDkyYmU5ODRjYyIsImMiOjEwfQ%3D%3D)
 
 ---
 
-### ━━━ Page 2 · OVERVIEW ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### 📡 Telecom Customer Churn Analysis
+> *SQL Server · Power BI · Python · Random Forest*
 
-#### 📈 Monthly Trend — Amount Received
+- 📌 Built **end-to-end ETL pipelines** to clean & structure telecom customer data
+- 📌 Implemented **Random Forest ML model** to predict future churners
+- 📌 Interactive dashboards to visualize churn patterns & support retention strategy
 
-```
-$60M ┤                                                    ●─● $58M
-$55M ┤                                               ●─●
-$50M ┤                                          ●─●
-$45M ┤                                     ●─●
-$40M ┤                               ●─●
-$35M ┤                          ●─●
-$30M ┤                     ●─●
-$28M ┤  ●─●─●─●
-     └──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──
-       Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
-```
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NaiemUrRahmanRiyad/Power-Bi-Projects/tree/5c700b6992cf9981da5f8362dd4e29e8b03fb5e3/Telecom%20Churn%20Analysis)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.fabric.microsoft.com/view?r=eyJrIjoiZGMxMDU1YmItMDE3MS00NjAwLWIzNDEtZjQ5NTY3MzJmNjhlIiwidCI6ImM4ODk5ZDQ4LTIyN2MtNDRhZS05YzIxLWQwZDkyYmU5ODRjYyIsImMiOjEwfQ%3D%3D)
 
-> 📌 **Insight:** Consistent month-over-month growth — repayments nearly **doubled** from January to December.
+---
+
+### 🏦 Bank Loan Report Dashboard
+> *SQL · Power BI · DAX · Power Query*
+
+- 📌 Analyzed **38,575 loan records** — $435.8M funded, $473.1M received
+- 📌 Segmented **86.18% good loans** vs **13.82% bad loans** for risk assessment
+- 📌 Multi-page dashboard (Summary, Overview, Details) with MTD & MoM KPIs
+
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NaiemUrRahmanRiyad/Power-Bi-Projects/tree/b7d40257f57afe17b35f8b62c4ad5384e85e1da7/Bank%20Loan%20Analysis)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.fabric.microsoft.com/view?r=eyJrIjoiNTM5M2Q2NDYtYThlYy00YzY4LThhNDItZmRkMTk0Zjk2NzBjIiwidCI6ImM4ODk5ZDQ4LTIyN2MtNDRhZS05YzIxLWQwZDkyYmU5ODRjYyIsImMiOjEwfQ%3D%3D)
+
+---
+
+### 🚗 Uber Trip Analysis Dashboard
+> *Power BI · DAX · Power Query · Data Visualization*
+
+- 📌 Analyzed booking trends, revenue, trip distance & average trip metrics
+- 📌 Day vs night trips, vehicle performance & payment type breakdown
+- 📌 Time-based trends with slicers & interactive charts for deep insights
+
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NaiemUrRahmanRiyad/Power-Bi-Projects/tree/5c700b6992cf9981da5f8362dd4e29e8b03fb5e3/Telecom%20Churn%20Analysis)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.fabric.microsoft.com/view?r=eyJrIjoiNTgyZmQzODQtMmM3ZS00OTBhLWExYmUtYzFhMGFlMTJiZWE3IiwidCI6ImM4ODk5ZDQ4LTIyN2MtNDRhZS05YzIxLWQwZDkyYmU5ODRjYyIsImMiOjEwfQ%3D%3D)
+
+---
+
+### 🧠 XAI for Early Parkinson's Detection *(Thesis)*
+> *Python · SHAP · Scikit-learn · OpenCV · Google Colab*
+
+- 📌 Research-based thesis on spiral drawing image datasets for Parkinson's detection
+- 📌 Applied **Explainable AI (SHAP)** to interpret model outputs & identify key features
+- 📌 Built & evaluated classification models with full performance analysis
+
+[![GitHub](https://img.shields.io/badge/View_Thesis-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NaiemUrRahmanRiyad/Thesis)
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=NaiemUrRahmanRiyad&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=F2C811&icon_color=F2C811&text_color=ffffff&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaiemUrRahmanRiyad&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=F2C811&text_color=ffffff" height="165"/>
 
 <br/>
 
-#### 🍩 Loan Term Distribution
+<img src="https://streak-stats.demolab.com?user=NaiemUrRahmanRiyad&theme=dark&hide_border=true&background=0D1117&ring=F2C811&fire=F2C811&currStreakLabel=F2C811&sideLabels=ffffff&dates=ffffff" width="49%"/>
 
-```
-  ╭─────────────────────────────╮
-  │   36 Months  ████████  62%  │  ≈ $294M
-  │   60 Months  █████     38%  │  ≈ $179M
-  ╰─────────────────────────────╯
-```
+<br/><br/>
 
-#### 👷 Repayments by Employment Length
-
-| Employment | Amount | Share |
-|-----------|--------|-------|
-| 10+ years | **$126M** | `████████████` 26.9% |
-| 2 years | $49M | `████░░░░░░░░` 10.5% |
-| 3 years | $48M | `████░░░░░░░░` 10.2% |
-| < 1 year | $48M | `████░░░░░░░░` 10.2% |
-| 4 years | $41M | `███░░░░░░░░░` 8.7% |
-| 5 years | $40M | `███░░░░░░░░░` 8.5% |
-
-#### 🎯 Repayments by Loan Purpose
-
-| Purpose | Amount | Visual |
-|---------|--------|--------|
-| 🔄 Debt Consolidation | **$0.25bn** | `████████████████░░░░` |
-| 💳 Credit Card | $0.07bn | `████░░░░░░░░░░░░░░░░` |
-| 🏠 Home Improvement | $0.04bn | `██░░░░░░░░░░░░░░░░░░` |
-| 📦 Other | $0.03bn | `█░░░░░░░░░░░░░░░░░░░` |
-| 🏢 Small Business | $0.02bn | `█░░░░░░░░░░░░░░░░░░░` |
-| 🛒 Major Purchase | $0.02bn | `█░░░░░░░░░░░░░░░░░░░` |
-
----
-
-### ━━━ Page 3 · DETAILS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Fully interactive drill-through table with row-level loan data. Every row is clickable and filterable.
-
-| ID | Purpose | Ownership | Grade | Issue Date | Funded | Int Rate | Installment | Received |
-|:--:|---------|:---------:|:-----:|:----------:|-------:|:--------:|:-----------:|--------:|
-| 54734 | Debt Consolidation | RENT | `B4` | 09-08-2021 | $25,000 | 12% | $829.10 | $29,330 |
-| 55742 | Credit Card | RENT | `B5` | 08-05-2021 | $7,000 | 11% | $228.22 | $8,216 |
-| 57416 | Debt Consolidation | RENT | `C3` | 09-11-2021 | $10,800 | 14% | $366.86 | $13,208 |
-| 58915 | Debt Consolidation | RENT | `B3` | 08-04-2021 | $7,500 | 10% | $162.34 | $5,844 |
-| 61419 | Debt Consolidation | RENT | `D2` | 10-02-2021 | $5,600 | 15% | $194.02 | $6,475 |
-| 68381 | Debt Consolidation | RENT | `A5` | 08-03-2021 | $6,625 | 9% | $209.54 | $7,542 |
-| 69550 | Debt Consolidation | RENT | `D3` | 10-05-2021 | $11,200 | 15% | $268.40 | $15,924 |
-
----
-
-## 🎛️ Interactive Filters
-
-All pages are connected via **4 global slicers**:
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  🔘 Select Measure    🗺️ State (All)    📊 Grade (All)           │
-│     Total Funded      ▼ Filter by       ▼ A B C D E F G         │
-│     Total Received       US State                               │
-│     Avg Interest                        🎯 Purpose (All)        │
-│     Avg DTI                             ▼ Debt Consolidation    │
-│                                            Credit Card          │
-│                                            Home Improvement...  │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## ⚙️ DAX Measures Reference
-
-<details>
-<summary>📐 <strong>Click to expand — All DAX Measures</strong></summary>
-
-```DAX
--- ═══════════════════════════════════
--- 📝 LOAN APPLICATIONS
--- ═══════════════════════════════════
-
-Total Loan Applications =
-    COUNT(loan_data[id])
-
-MTD Loan Applications =
-    CALCULATE(COUNT(loan_data[id]),
-    DATESMTD(loan_data[issue_date]))
-
-PMTD Loan Applications =
-    CALCULATE(COUNT(loan_data[id]),
-    DATESMTD(EOMONTH(loan_data[issue_date], -1)))
-
-MoM Loan Applications % =
-    DIVIDE(
-        [MTD Loan Applications] - [PMTD Loan Applications],
-        [PMTD Loan Applications]
-    )
-
-
--- ═══════════════════════════════════
--- 💰 FUNDED & RECEIVED AMOUNTS
--- ═══════════════════════════════════
-
-Total Funded Amount =
-    SUM(loan_data[loan_amount])
-
-MTD Funded Amount =
-    CALCULATE(SUM(loan_data[loan_amount]),
-    DATESMTD(loan_data[issue_date]))
-
-Total Amount Received =
-    SUM(loan_data[total_payment])
-
-MTD Amount Received =
-    CALCULATE(SUM(loan_data[total_payment]),
-    DATESMTD(loan_data[issue_date]))
-
-MoM Amount Received % =
-    DIVIDE(
-        [MTD Amount Received] - [PMTD Amount Received],
-        [PMTD Amount Received]
-    )
-
-
--- ═══════════════════════════════════
--- 📉 INTEREST RATE & DTI
--- ═══════════════════════════════════
-
-Avg Interest Rate =
-    AVERAGE(loan_data[int_rate])
-
-MTD Avg Interest Rate =
-    CALCULATE(AVERAGE(loan_data[int_rate]),
-    DATESMTD(loan_data[issue_date]))
-
-Avg DTI =
-    AVERAGE(loan_data[dti])
-
-MTD Avg DTI =
-    CALCULATE(AVERAGE(loan_data[dti]),
-    DATESMTD(loan_data[issue_date]))
-
-
--- ═══════════════════════════════════
--- ✅ GOOD LOAN MEASURES
--- ═══════════════════════════════════
-
-Good Loan Applications =
-    CALCULATE(COUNT(loan_data[id]),
-    loan_data[loan_status] IN {"Fully Paid", "Current"})
-
-Good Loan % =
-    DIVIDE([Good Loan Applications], [Total Loan Applications])
-
-Good Loan Funded Amount =
-    CALCULATE(SUM(loan_data[loan_amount]),
-    loan_data[loan_status] IN {"Fully Paid", "Current"})
-
-Good Loan Received Amount =
-    CALCULATE(SUM(loan_data[total_payment]),
-    loan_data[loan_status] IN {"Fully Paid", "Current"})
-
-
--- ═══════════════════════════════════
--- ❌ BAD LOAN MEASURES
--- ═══════════════════════════════════
-
-Bad Loan Applications =
-    CALCULATE(COUNT(loan_data[id]),
-    loan_data[loan_status] = "Charged Off")
-
-Bad Loan % =
-    DIVIDE([Bad Loan Applications], [Total Loan Applications])
-
-Bad Loan Funded Amount =
-    CALCULATE(SUM(loan_data[loan_amount]),
-    loan_data[loan_status] = "Charged Off")
-
-Bad Loan Received Amount =
-    CALCULATE(SUM(loan_data[total_payment]),
-    loan_data[loan_status] = "Charged Off")
-```
-
-</details>
-
----
-
-## 🗂️ Data Dictionary
-
-<details>
-<summary>📋 <strong>Click to expand — All Fields Explained</strong></summary>
-
-| # | Column | Data Type | Description |
-|---|--------|-----------|-------------|
-| 1 | `id` | Integer | Unique loan identifier |
-| 2 | `loan_status` | Text | Fully Paid / Current / Charged Off |
-| 3 | `loan_amount` | Currency | Amount of loan funded ($) |
-| 4 | `funded_amnt_inv` | Currency | Amount funded by investors |
-| 5 | `term` | Text | 36 months / 60 months |
-| 6 | `int_rate` | Decimal | Annual interest rate (%) |
-| 7 | `installment` | Currency | Monthly repayment amount |
-| 8 | `grade` | Text | A → G credit grade |
-| 9 | `sub_grade` | Text | A1–G5 sub-grade |
-| 10 | `emp_length` | Text | Employment duration |
-| 11 | `home_ownership` | Text | RENT / MORTGAGE / OWN |
-| 12 | `annual_inc` | Currency | Borrower's annual income |
-| 13 | `issue_date` | Date | Loan origination date |
-| 14 | `purpose` | Text | Reason for the loan |
-| 15 | `addr_state` | Text | U.S. state code |
-| 16 | `dti` | Decimal | Debt-to-income ratio |
-| 17 | `total_payment` | Currency | Total amount repaid |
-
-</details>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-| Tool | Version | Role |
-|------|---------|------|
-| ![Power BI](https://img.shields.io/badge/Power%20BI-Desktop-F2C811?logo=powerbi&logoColor=black) | Latest | Visualization & Publishing |
-| ![Power Query](https://img.shields.io/badge/Power%20Query-M%20Language-217346?logo=microsoft) | — | ETL & Data Transformation |
-| ![DAX](https://img.shields.io/badge/DAX-Expressions-00897B?logo=microsoftexcel) | — | KPIs, MTD, MoM, % Measures |
-| ![Excel](https://img.shields.io/badge/Excel%20%2F%20CSV-Data%20Source-217346?logo=microsoftexcel) | — | Raw Dataset |
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NaiemUrRahmanRiyad&bg_color=0D1117&color=F2C811&line=F2C811&point=ffffff&area=true&hide_border=true" width="98%"/>
 
 </div>
 
 ---
 
-## 🚀 Getting Started
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### Prerequisites
-- ✅ [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)
-- ✅ The `loan_data.csv` file from `/data` folder
-
-### Installation
-
-```bash
-# 1️⃣  Clone the repository
-git clone https://github.com/your-username/bank-loan-analysis-dashboard.git
-
-# 2️⃣  Navigate into the project folder
-cd bank-loan-analysis-dashboard
-```
-
-```
-# 3️⃣  Open Power BI Desktop
-   File → Open Report → Bank_Loan_Analysis.pbix
-
-# 4️⃣  Update Data Source (if needed)
-   Home → Transform Data → Data Source Settings
-   → Update path to your local loan_data.csv
-
-# 5️⃣  Click Refresh & Explore! 🎉
-```
-
----
-
-## 📁 Repository Structure
-
-```
-🏦 bank-loan-analysis-dashboard/
-│
-├── 📊 Bank_Loan_Analysis.pbix        ← Main Power BI Report
-│
-├── 📂 data/
-│   └── 📄 loan_data.csv              ← Raw dataset (38.6K rows)
-│
-├── 📂 screenshots/
-│   ├── 🖼️ b1.png                     ← Details Page
-│   ├── 🖼️ b2.png                     ← Overview Page
-│   └── 🖼️ b3.png                     ← Summary Page
-│
-└── 📄 README.md                      ← You are here!
-```
-
----
-
-## 💡 Key Business Insights
-
-> 🔍 Findings from the dashboard analysis:
-
-| # | Insight | Impact |
-|---|---------|--------|
-| 1 | ✅ **86.18% Good Loan Rate** | Portfolio is healthy & low-risk |
-| 2 | ⚠️ **$28.2M net loss on bad loans** ($65.5M funded, only $37.3M recovered) | Tighten credit scoring for D/E/F grades |
-| 3 | 📅 **Repayments doubled Jan → Dec** ($28M → $58M) | Strong portfolio maturation trend |
-| 4 | 🏦 **Debt consolidation = 55%+ of all loans** | Core product driving revenue |
-| 5 | 👷 **10+ yr employees repay 2.5x more** than < 1 yr employees | Employment stability = repayment reliability |
-| 6 | ⏱️ **36-month loans dominate** (62%) | Borrowers prefer shorter commitments |
-| 7 | 🏠 **RENT borrowers are the largest segment** | Target demographic for product design |
-
----
-
-## 🔮 Future Enhancements
-
-- [ ] 🤖 Add **predictive default scoring** using ML integration
-- [ ] 📧 Set up **automated email alerts** for high-risk loan spikes
-- [ ] 🌐 Publish to **Power BI Service** with scheduled refresh
-- [ ] 📱 Create a **mobile-optimized** layout
-- [ ] 🔗 Connect to **live SQL database** instead of static CSV
-- [ ] 📊 Add **YoY (Year-over-Year)** comparison metrics
-- [ ] 🗺️ Drill-down to **county-level** geographic analysis
-
----
-
-## 🤝 Contributing
-
-Contributions are warmly welcome! Here's how:
-
-```
-1. 🍴 Fork this repo
-2. 🌿 Create a branch:  git checkout -b feature/amazing-feature
-3. 💾 Commit changes:   git commit -m "✨ Add amazing feature"
-4. 📤 Push:             git push origin feature/amazing-feature
-5. 🔁 Open a Pull Request
-```
-
----
-
-## 📄 License
-
-```
-MIT License — feel free to use, modify, and distribute.
-See LICENSE file for full details.
-```
-
----
-
-## 👤 Author
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-**Your Name**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/your-username)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2ecc71?style=for-the-badge&logo=firefox)](https://your-portfolio.com)
+![Trophies](https://github-profile-trophy.vercel.app/?username=NaiemUrRahmanRiyad&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1)
 
 </div>
 
 ---
 
+## 🎓 Education
+
+| Degree | Institution | Year | Score |
+|--------|------------|------|-------|
+| 🎓 B.Sc. in Computer Science & Engineering | Daffodil International University | 2022 – 2026 | CGPA: 3.50/4.00 |
+| 📚 Higher Secondary Certificate (HSC) | Alomgir Monsur Mintu Memorial College | 2018 – 2020 | GPA: 4.83/5.00 |
+
+---
+
+## 🌐 Languages
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:145a32,50:2ecc71,100:1a7a4a&height=120&section=footer&animation=fadeIn" width="100%"/>
+![Bengali](https://img.shields.io/badge/Bengali-Native-2ea44f?style=for-the-badge)
+![Hindi](https://img.shields.io/badge/Hindi-Conversational-0077B5?style=for-the-badge)
+![English](https://img.shields.io/badge/English-Professional-FF5722?style=for-the-badge)
 
-### ⭐ If this project helped you, please give it a star!
+</div>
 
-*Made with ❤️ and Power BI*
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+### 💬 Let's Connect & Build Something with Data!
+
+*"Turning data into decisions, one dashboard at a time."* 📊
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://naiemurrahman.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahman-riyad-b4011a349/)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahman.riyad21@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
